@@ -117,17 +117,25 @@ footer p{
     margin: auto;
 }
 
+.wopper {
+    margin: auto;
+}
+
 div img{
     max-width: 320px;
-    float: left;
+    float: right;
     border: 3px solid #fff ;
     border-radius: 10px;
-    margin-right: 15px;
+    margin-right: 1%;
 }
 
 .picturetext{
     display: flex;
     justify-content: left;
     align-items: left;
-    min-height: 100vh;
+    min-height: 100;
+}
+
+p{
+    font-size: larger;
 }
