@@ -144,7 +144,6 @@ div img{
 .picturetext{
     display: flex;
     justify-content: left;
-    align-items: left;
     min-height: 100;
 }
 
